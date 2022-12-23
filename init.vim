@@ -11,7 +11,9 @@ Plug 'nvim-lua/plenary.nvim'
 Plug 'gruvbox-community/gruvbox'
 Plug 'sainnhe/gruvbox-material'
 Plug 'SirVer/ultisnips'
+Plug 'honza/vim-snippets'
 Plug 'ryanoasis/vim-devicons'
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
 call plug#end()
 
 let loaded_matchparen = 1
